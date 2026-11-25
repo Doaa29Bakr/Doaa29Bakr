@@ -27,7 +27,7 @@ competitive programming problems. I'm now building my portfolio and aiming for a
 ### 🎓 Education & Certifications
 - 🎓 B.Sc. Computer & Control Engineering, [Portsaid University], [2026]
 - 🏅 **DEPI: Machine Learning Track** (Digital Egypt Pioneers Initiative), completed ✅
-- 📜 [https://drive.google.com/file/d/1SHF5vwwnZjIyUoKafwv9QI1kmVTV_pZa/view?usp=sharing]
+- [![Certificate](https://img.shields.io/badge/DEPI-View%20Certificate-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SHF5vwwnZjIyUoKafwv9QI1kmVTV_pZa/view?usp=sharing)
 
 ### 🚀 Projects
 | Project | What it does | Tech |
